@@ -1,6 +1,14 @@
 Big THX to all contributors!
 For more information check out the commit history at GitHub.
 
+xStream 3.4.1
+
+-  Fix Dokustream, 
+-  Fix Kinox 
+-  Fix Moviesever
+-  Fix Foxx
+
+
 xStream 3.4.0
 ================================================================================
 
