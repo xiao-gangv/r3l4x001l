@@ -25,18 +25,11 @@
    <news>
    xStream 3.4.3
 
-- Anmeldedaten für Serienstream.to eingefügt (Danke an WizzardMaker)
-- Fix hdfilme_tv (Danke an vka)
-- Watchbox hinzugefügt
-- Meinkino.to entfernt
-- Update Flimmerstube
-       
-   xStream 3.4.2
-
-- Fix Kinodogs (Next Page)
-- Fix Cinenator (Erscheinungsjahr)
-- Fix kinox
-- Fix hdfilme_tv
+  - Add Anmeldedaten für Serienstream.to(Danke an WizzardMaker)
+  - Fix hdfilme_tv (Danke an vka)
+  - Add Watchbox 
+  - Meinkino.to entfernt
+  - Update Flimmerstube
    </news>
    <assets>
      <icon>icon.png</icon>
