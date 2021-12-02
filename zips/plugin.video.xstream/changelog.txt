@@ -1,3 +1,15 @@
+xStream 3.4.4
+
+- URLResolver AutoUpdate - Standard deaktiviert
+- Update settings.xml
+- Fix DDL.me Genres
+- Watchbox Code Optimiert und Regex fix
+- Fix Streamdream Hoster Problem
+- Add OnlineFilme
+- Folgende Seiten entfernt:
+     1kino, Goldstream, Meinkino, Moviesever, RapidStream, streamkisteTV, SzeneStreams, 
+     tata (aktuell keine Filme und Serien mehr)
+
 xStream 3.4.3
 
 - Anmeldedaten für Serienstream.to eingefügt (Danke an WizzardMaker)
