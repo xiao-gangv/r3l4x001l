@@ -1,3 +1,16 @@
+xStream 3.4.5
+
+- Update jsunpacker.py
+- Fix Foxx
+- Cinenator Fix Bug's und Code optimiert
+- video2k entfernt
+- Add Movie2k AG
+- Fix CFScrape für HD-Streams
+- Add HD-Streams
+- Onlinefilme Code optimiert
+- Video4k entfernt (umleitung auf cine.to)
+- HD-Streams add Nxload direct
+
 xStream 3.4.4
 
 - URLResolver AutoUpdate - Standard deaktiviert
