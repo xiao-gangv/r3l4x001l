@@ -1,3 +1,14 @@
+xStream 3.4.6
+
+- Kinostreamz und FilmeStreamz entfernt (Seiten offline)
+- Quick Fix Anmeldedaten Serienstream.to 
+- Add SzeneStreams
+- Foxx Fix search
+- Update util.py
+- HD-Streams Fix search und Code Cleanup
+- Update HDStreams (Fix Regex)
+- Streamit Suche hinzugefügt und Code optimiert
+
 xStream 3.4.5
 
 - Update jsunpacker.py
